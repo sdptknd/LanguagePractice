@@ -1,0 +1,14 @@
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/bin/Debug/net8.0/SimpleTest
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/bin/Debug/net8.0/SimpleTest.deps.json
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/bin/Debug/net8.0/SimpleTest.runtimeconfig.json
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/bin/Debug/net8.0/SimpleTest.dll
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/bin/Debug/net8.0/SimpleTest.pdb
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/SimpleTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/SimpleTest.AssemblyInfoInputs.cache
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/SimpleTest.AssemblyInfo.cs
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/SimpleTest.csproj.CoreCompileInputs.cache
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/SimpleTest.dll
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/refint/SimpleTest.dll
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/SimpleTest.pdb
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/SimpleTest.genruntimeconfig.cache
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleTest/obj/Debug/net8.0/ref/SimpleTest.dll

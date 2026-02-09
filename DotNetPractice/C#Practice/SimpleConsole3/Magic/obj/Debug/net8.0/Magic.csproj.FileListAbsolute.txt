@@ -1,0 +1,11 @@
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/bin/Debug/net8.0/Magic.deps.json
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/bin/Debug/net8.0/Magic.dll
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/bin/Debug/net8.0/Magic.pdb
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/Magic.AssemblyInfoInputs.cache
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/Magic.AssemblyInfo.cs
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/Magic.csproj.CoreCompileInputs.cache
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/Magic.dll
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/refint/Magic.dll
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/Magic.pdb
+/Users/sudiptakundu/repos/Practice/DotNetPractice/C#Practice/SimpleConsole3/Magic/obj/Debug/net8.0/ref/Magic.dll
